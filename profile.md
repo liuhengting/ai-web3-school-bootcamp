@@ -20,7 +20,7 @@
 
 1. 参加 Bootcamp 完成 Hackathon 项目
 2. 掌握 AI Agent 与 Web3 交叉领域
-3. 产品研究与内容运营
+3. 产品研究
 
 ## 每日投入
 
